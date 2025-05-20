@@ -73,7 +73,7 @@ Durante esse bootcamp, me aprofundei nos fundamentos e práticas modernas do eco
 
 ## 🧪 Destaques do Bootcamp
 
-✅ 40+ horas de conteúdo teórico e prático  
+✅ 60+ horas de conteúdo teórico e prático  
 ✅ Projetos desafiadores aplicando o conteúdo aprendido  
 ✅ Tecnologias: Java 17, Spring Boot, Git/GitHub, SQL, MongoDB, Swagger, Railway  
 ✅ Mentorias com especialistas do Bradesco e Microsoft
